@@ -199,16 +199,21 @@ p {
 /* End Header section */
 
 /* Hero Section */
+#mainslok1{
+	margin-bottom: 0.5px;
+	color: gold;
+} 
 
 #slok1{
 color: gold;
-font-size: 24px;
-margin-bottom: 2px;
+font-size: 20px;
+margin-bottom: 1px;
 }
 
 #slok2{
 	color: gold;
-font-size: 24px;
+font-size: 20px;
+margin-bottom: 1px;
 }
 
 #hero {
@@ -238,7 +243,7 @@ font-size: 24px;
 #hero h1 {
 	display: block;
 	width: fit-content;
-	font-size: 4rem;
+	font-size: 2rem;
 	position: relative;
 	color: transparent;
 	animation: text_reveal 0.5s ease forwards;
@@ -337,6 +342,11 @@ font-size: 24px;
 	text-align: left;
 }
 /* End Services Section */
+
+.god{
+	padding-left: 30px;
+	padding-right: 30px;
+}
 
 /* Projects section */
 #projects .projects {
